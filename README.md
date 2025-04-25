@@ -4,14 +4,11 @@ Design an interactive dashboards for business stakeholders.
 SUMMARY :
 
 Top KPIs Displayed (Cards) :
+1)Total Sales: 12.64M
+2)Total Profit: 1.47M
+3)Total Quantity Sold: 178K
+4)Shipping Cost: 1.35M
 
-Total Sales: 12.64M
-
-Total Profit: 1.47M
-
-Total Quantity Sold: 178K
-
-Shipping Cost: 1.35M
 
 Visual Breakdown:
 1. Sales by Country: Donut chart shows country-wise sales share
@@ -19,9 +16,9 @@ Visual Breakdown:
 3. Sales by Category: Bar chart comparing Technology, Furniture, and Office Supplies
 4. Sales by Market: Pie chart showing regional market distribution (e.g., APAC, EMEA)
 5. Sales by Ship Mode: Horizontal bar chart for delivery method usage (e.g., Standard, First Class)
+
    
 Filters Present:
-Category Filter: (Furniture, Office Supplies, Technology)
-
-Market Filter: (Africa, APAC, EMEA, etc.)
+1)Category Filter: (Furniture, Office Supplies, Technology)
+2)Market Filter: (Africa, APAC, EMEA, etc.)
 
