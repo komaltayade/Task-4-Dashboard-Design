@@ -15,11 +15,23 @@ SUMMARY :
 
 
 - Visual Breakdown:
-  1. Sales by Country: Donut chart shows country-wise sales share
-  2. Sales by State: Bar chart for top-performing states
-  3. Sales by Category: Bar chart comparing Technology, Furniture, and Office Supplies
-  4. Sales by Market: Pie chart showing regional market distribution (e.g., APAC, EMEA)
-  5. Sales by Ship Mode: Horizontal bar chart for delivery method usage (e.g., Standard, First Class)
+  
+  1. Sales by Country: A donut chart visualizes the sales share by country, offering insights into the top-performing regions.
+
+  2. Sales by State: A bar chart displays the best-performing states, helping to identify regional trends.
+
+  3. Sales by Category: A bar chart compares sales in the key categories: Technology, Furniture, and Office Supplies.
+
+  4. Sales by Market: A pie chart highlights the distribution of sales across regional markets, such as APAC, EMEA, and others.
+
+  5. Sales by Ship Mode: A horizontal bar chart presents the breakdown of delivery methods, showing the usage of Standard, First Class and other shipping options.
+
+
+- Filters:
+
+  1.Category Filter: Allows selection of categories (Furniture, Office Supplies, Technology) for more granular insights.
+
+  2.Market Filter: Enables market selection, with options like Africa, APAC, EMEA, etc., to view region-specific data.
 
    
 - Filters Present:
