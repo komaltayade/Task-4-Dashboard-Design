@@ -6,8 +6,11 @@ SUMMARY :
 Top KPIs Displayed (Cards) :
 
 Total Sales: 12.64M
+
 Total Profit: 1.47M
+
 Total Quantity Sold: 178K
+
 Shipping Cost: 1.35M
 
 Visual Breakdown:
@@ -19,5 +22,6 @@ Visual Breakdown:
    
 Filters Present:
 Category Filter: (Furniture, Office Supplies, Technology)
+
 Market Filter: (Africa, APAC, EMEA, etc.)
 
