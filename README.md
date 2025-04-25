@@ -3,11 +3,14 @@ Design an interactive dashboards for business stakeholders.
 
 SUMMARY :
 
-Top KPIs Displayed (Cards) :
+# Top KPIs Displayed (Cards) :
 
 1.Total Sales: 12.64M
+
 2.Total Profit: 1.47M
+
 3.Total Quantity Sold: 178K
+
 4.Shipping Cost: 1.35M
 
 
@@ -20,6 +23,8 @@ Visual Breakdown:
 
    
 Filters Present:
+
 1.Category Filter: (Furniture, Office Supplies, Technology)
+
 2.Market Filter: (Africa, APAC, EMEA, etc.)
 
