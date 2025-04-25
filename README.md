@@ -34,9 +34,3 @@ SUMMARY :
   2.Market Filter: Enables market selection, with options like Africa, APAC, EMEA, etc., to view region-specific data.
 
    
-- Filters Present:
-
-  1.Category Filter: (Furniture, Office Supplies, Technology)
-
-  2.Market Filter: (Africa, APAC, EMEA, etc.)
-
