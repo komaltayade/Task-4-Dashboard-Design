@@ -3,7 +3,7 @@ Design an interactive dashboards for business stakeholders.
 
 SUMMARY :
 
-# Top KPIs Displayed (Cards) :
+- Top KPIs Displayed (Cards) :
 
 1.Total Sales: 12.64M
 
